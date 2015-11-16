@@ -58,6 +58,7 @@ textarea {
 
 body {
     font: 16px/26px 'Source Sans Pro', sans-serif;
+    background: url('wavegrid.png');
 }
 
 .wrapper {
