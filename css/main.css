@@ -55,9 +55,10 @@ textarea {
 /* ===== Initializr Styles ==================================================
    Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
    ========================================================================== */
-/* Background pattern from subtlepatterns.com */
+
 body {
     font: 16px/26px 'Source Sans Pro', sans-serif;
+    /* Background pattern from subtlepatterns.com */
     background: url('grey.png');
 }
 
